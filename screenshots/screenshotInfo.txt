@@ -1,0 +1,72 @@
+Screenshot 1500885800103__0:
+Mandelbrot Exponent: 1.1
+Top Left Coordinates: -0.25104166666666655 + 0.14166666666666666i
+Zoom (width): 2^-1
+# of iterations: 100
+
+Screenshot 1500886894444__0:
+Mandelbrot Exponent: 2 - .1i
+Top Left Coordinates: -1.0059244791666666 + 0.017415364583333495i
+Zoom (width): 2^-5
+# of iterations: 100
+
+Screenshot 1500888276249__0:
+Mandelbrot Exponenent: 100,000 - i
+Top Left Coordinates: 0.9998816808064775 + 1.260439554860094E-5i
+Zoom (width): 2^-16
+# of iterations: 100
+
+Screenshot 1500889397457__0:
+Mandelbrot Exponenet: 2 + .1i
+Top Left Coordinates: 0.4515624999999998 + 0.018750000000000024i
+Zoom (width): 2^-4
+# of iterations: 100
+
+Screenshot 1500894758638__2:
+Mandelbrot Exponenent: 2.1
+Top Left Coordinates: 0.24466145833333341 + 0.028906250000000015i
+Zoom (width): 2^-3
+# of iterations: 100
+
+Screenshot 1500935127899__0:
+Mandelbrot Exponent: 1.0999999999999992
+Top Left Coordinates: -0.6125 + 0.13645833333333324i
+Zoom (width): 2^0
+# of iterations: 100
+
+Screenshot 1500935127899__1:
+Mandelbrot Exponent: 1.0999999999999992
+Top Left Coordinates: -0.49296875 + -0.28632812500000016i
+Zoom (width): 2^-3
+# of iterations: 100
+
+Screenshot 1500979066474__0:
+Mandelbrot Exponent: 1.2999999999999994
+Top Left Coordinates: -0.8354166666666649 + -0.3093750000000002i
+Zoom (width): 2^0
+# of iterations: 100
+
+Screenshot 1500979066474__1:
+Mandelbrot Exponent: 1.2999999999999994
+Top Left Coordinates: -0.4979166666666649 + -0.5333333333333334i
+Zoom (width): 2^-1
+# of iterations: 100
+
+Screenshot 1500979066474__2:
+Mandelbrot Exponent: 1.2999999999999994
+Top Left Coordinates: -0.4260416666666649 + -0.5328125000000001i
+Zoom (width): 2^-2
+# of iterations: 100
+
+Screenshot 1500979066474__3:
+Mandelbrot Exponent: 1.2999999999999994
+Top Left Coordinates: -0.4179036458333315 + -0.5395833333333334i
+Zoom (width): 2^-4
+# of iterations: 100
+
+Screenshot 1501136594928__0:
+Mandelbrot Exponent: 2.0 + 0.1i
+Top Left Coordinates: -2.8057791312535603 + 0.29415453275044756i
+Zoom (width): 2^-17
+# of iterations: 100
+
